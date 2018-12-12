@@ -5,6 +5,4 @@ import { Component } from '@angular/core'
   templateUrl: './root.component.html',
   styleUrls: ['./root.component.scss']
 })
-export class RootComponent {
-  title = 'go-dappsincome'
-}
+export class RootComponent { }
